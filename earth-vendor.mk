@@ -613,7 +613,7 @@ PRODUCT_PACKAGES += \
     libfeature_rss \
     libfeatureiodrv_mem \
     libforkexecwrap \
-    libformatter \
+    libformatter_mtk \
     libged \
     libgpu_aux \
     libgpud \
@@ -647,7 +647,7 @@ PRODUCT_PACKAGES += \
     libmiphone_preview_bokeh \
     libmml \
     libmnetlink_v104 \
-    libmnl \
+    libmnl_mtk \
     libmp3dec_mtk \
     libmpbase \
     libmsnr \
